@@ -1,0 +1,46 @@
+
+body{
+background-color:#7ddece;
+}
+.mainpage{
+margin-left:200px;
+height:auto;
+width:70%;
+background-color:#c3b6b6;
+box-shadow:5px 5px 5px #e87b7b;
+}
+*{
+font-family:Georgia, "Times New Roman", Times, serif;
+}
+h1.heading1,h5{
+text-align:center;
+color:#FFFFFF;
+padding:5px;
+}
+img{
+margin-left:210px;
+}
+table{
+padding:10px;
+}
+caption{
+background-color:#100e0d;
+color:#c4b8b8;
+padding:7px;
+font-weight:bold;
+}
+td{
+background-color:#d4b7ca;
+padding:5px;
+}
+table td:nth-child(odd){
+color:#c12105;
+font-size:18px;
+}
+table td:nth-child(even){
+color:#1f040d;
+}
+p{
+text-align:center;
+padding:10px;
+}
